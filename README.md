@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<h3 align="center">A passionate Data Scientist from Germany</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkdara&label=Profile%20views&color=0e75b6&style=flat" alt="manojkdara" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manojkdara@gmail.com**
 
-- ⚡ Fun fact **I Think I'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
