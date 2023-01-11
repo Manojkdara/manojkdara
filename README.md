@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuiing in **Computational Mechanics in University of Duisburg-Essen**
 
-- 🌱 I’m currently learning **Machine Learning , NLP and Django Frameworks**
+- 🌱 I’m currently learning **Machine Learning , NLP **
 
 - 💬 Ask me about **Data cleaning, EDA , Deep Learning**
 
