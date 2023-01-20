@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manojkdara@gmail.com**
 
-
+- Area of Interest - **Finite element analysis using Machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
