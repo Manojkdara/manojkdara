@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning , NLP **
 
-- 💬 Ask me about **Data cleaning, EDA , Deep Learning**
-
 - 📫 How to reach me **manojkdara@gmail.com**
 
 - Area of Interest - **Finite element analysis using Machine learning**
