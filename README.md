@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuiing in **Computational Mechanics in University of Duisburg-Essen**
 
-- 🌱 I’m currently learning **Machine Learning , NLP **
+- 🌱 I’m currently learning **Deep Learning , NLP **
 
 - 📫 How to reach me **manojkdara@gmail.com**
 
